@@ -1,0 +1,39 @@
+ACTIVIDADES DE CLASE 
+
+Ejercicio 1 
+
+Realizar el diagrama de flujo y un programa en C que permita realizar el cálculo del área y el perímetro de un círculo. 
+
+ 
+
+Ejercicio 2 
+
+Realizar el diagrama de flujo y un programa en C que realice la conversión de pesos a dólares, de dólares a pesos y de dólares a euros para apoyar las operaciones de cambio de divisa dentro de una casa de cambio. 
+
+ 
+
+Ejercicio 3 
+
+Realizar el diagrama de flujo y un programa en C que permita convertir de días, horas y minutos a segundos. 
+
+ 
+
+Ejercicio 4 
+
+Realizar el diagrama de flujo y un programa en C que permita convertir de segundos a días, horas y minutos. 
+
+ 
+
+Ejercicio 5 
+
+Realizar el diagrama en flujo y un programa en C que le permita a una investigadora conocer la media de las 5 mediciones de temperatura adquiridas dentro de un cuerpo de agua. 
+
+ 
+
+Recuerden: Primero analizo, posteriormente genero mi algoritmo, después describo mi algoritmo mediante un diagrama de flujo y finalmente programo. 
+
+ 
+
+Nota: NO es necesario agregar un menú, ya que todavía no vemos esas sentencias. 
+
+ 
