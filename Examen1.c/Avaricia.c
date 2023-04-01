@@ -18,7 +18,7 @@ int main(){
    x1=pre1*.20;
    x2=pre1-x1;
 
-printf("Precio de culaquier prenda: 100$");
+printf("Precio de culaquier prenda: 100$\n");
 
 printf("Una sola prenda\n");
 printf("******************************************\n");
