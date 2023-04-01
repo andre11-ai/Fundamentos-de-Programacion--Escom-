@@ -49,15 +49,14 @@ x2=suma1-x1;
 printf("descuento de tres prendas : %.2f\n",x2);
 
 
-int bin4= 00001111, decimal4=0, base4=1, remainder4, temp4;
-
+int bin4=1111, decimal4=0, base4=1, remainder4, temp4;
  for (temp4=bin4; temp4>0; temp4 = temp4/10){
    remainder4 = temp4 % 2;
    decimal4 = decimal4 + remainder4 *base4 ;
    base4= base4 *2;
  }
 
- printf("el precio de tu cuarta prenda es : :%.2d \n", decimal4);
+ printf("precio de la cuarta prenda :%d \n",decimal4);
 
 
 printf("como usted compro una piesa mas ponga su cupon");
@@ -69,12 +68,11 @@ printf("como usted compro una piesa mas ponga su cupon");
    decimal3 = decimal3 + remainder3 *base3 ;
    base3= base3 *2;
  }
- printf("tu descuento es de : %d\n", decimal3);
- 
-int x5,x6, x7;
-x5=decimal4*decimal3;
-x6=x2+x5;
-x7=x5-x6;
+printf("tu descuento es de : %d\n", decimal3);
 
-printf("el total de 4 prendas es:%.2f",x6);
+int y1,ya2,y3,y4;
+y1=decimal4*decimal3;
+ya2=y1/100;
+printf("El precio de la cuarta prenda es de: %.2f", ya2);
+
 }
